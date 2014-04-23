@@ -1,0 +1,27 @@
+C:\Users\damtan\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\EditPad.exe
+C:\Users\damtan\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\EditPad.pdb
+C:\Users\damtan\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\EditPad.xml
+C:\Users\damtan\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\EditPad.Form1.resources
+C:\Users\damtan\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\EditPad.Resources.resources
+C:\Users\damtan\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\EditPad.vbproj.GenerateResource.Cache
+C:\Users\damtan\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\EditPad.exe
+C:\Users\damtan\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\EditPad.xml
+C:\Users\damtan\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\EditPad.pdb
+C:\Users\Agnieszka\Downloads\editPad (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\EditPad.exe
+C:\Users\Agnieszka\Downloads\editPad (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\EditPad.xml
+C:\Users\Agnieszka\Downloads\editPad (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\EditPad.pdb
+C:\Users\Agnieszka\Downloads\editPad (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\EditPad.Form1.resources
+C:\Users\Agnieszka\Downloads\editPad (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\EditPad.Resources.resources
+C:\Users\Agnieszka\Downloads\editPad (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\EditPad.vbproj.GenerateResource.Cache
+C:\Users\Agnieszka\Downloads\editPad (1)\WindowsApplication1\WindowsApplication1\bin\Debug\EditPad.exe
+C:\Users\Agnieszka\Downloads\editPad (1)\WindowsApplication1\WindowsApplication1\bin\Debug\EditPad.pdb
+C:\Users\Agnieszka\Downloads\editPad (1)\WindowsApplication1\WindowsApplication1\bin\Debug\EditPad.xml
+C:\Users\damtan\Desktop\editd\WindowsApplication1\WindowsApplication1\obj\x86\Debug\EditPad.exe
+C:\Users\damtan\Desktop\editd\WindowsApplication1\WindowsApplication1\obj\x86\Debug\EditPad.xml
+C:\Users\damtan\Desktop\editd\WindowsApplication1\WindowsApplication1\obj\x86\Debug\EditPad.pdb
+C:\Users\damtan\Desktop\editd\WindowsApplication1\WindowsApplication1\bin\Debug\EditPad.exe
+C:\Users\damtan\Desktop\editd\WindowsApplication1\WindowsApplication1\bin\Debug\EditPad.pdb
+C:\Users\damtan\Desktop\editd\WindowsApplication1\WindowsApplication1\bin\Debug\EditPad.xml
+C:\Users\damtan\Desktop\editd\WindowsApplication1\WindowsApplication1\obj\x86\Debug\EditPad.Form1.resources
+C:\Users\damtan\Desktop\editd\WindowsApplication1\WindowsApplication1\obj\x86\Debug\EditPad.Resources.resources
+C:\Users\damtan\Desktop\editd\WindowsApplication1\WindowsApplication1\obj\x86\Debug\EditPad.vbproj.GenerateResource.Cache
